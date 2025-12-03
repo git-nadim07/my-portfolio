@@ -416,10 +416,6 @@ body {
     height: 300px;
     object-fit: cover;
   }
-  .btn {
-    font-size: 14px;
-    padding: 16px 32px;
-  }
   .project-btn {
     margin-top: 20px;
   }
